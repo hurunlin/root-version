@@ -18,7 +18,7 @@
     <modelVersion>${model.version}</modelVersion>
 
     <!-- pom项目属性 -->
-    <groupId>com.test</groupId>
+    <groupId>com.hrl</groupId>
     <artifactId>root-version</artifactId>
     <packaging>pom</packaging>
     <version>${learning}</version>
